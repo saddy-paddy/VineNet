@@ -16,7 +16,8 @@ If you wish to train our model:
 To run our model on test images:  
 - Go to eval.ipynb
 
-
+#  To Load pre-trained weights
+ - model_for_nuclei.keras
 
 
 
