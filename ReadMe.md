@@ -15,8 +15,6 @@ If you wish to train our model:
 
 To run our model on test images:  
 - Go to eval.ipynb
-You can find our accuracy and precision in logs.
-Predicted masks for all the test images are saved in data-->test-->-->Predicted.
 
 
 
